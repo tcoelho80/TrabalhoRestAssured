@@ -3,10 +3,10 @@ Trabalho de automação de testes de API
 
 #Integrantes do Grupo
 
-DANILO DE SOUZA NOVAES 
-JOANILZA OLIVEIRA BOCKHORNY 
-MATHEUS PAULO BRASILEIRO
-THIAGO VALADÃO COELHO
+#DANILO DE SOUZA NOVAES 
+#JOANILZA OLIVEIRA BOCKHORNY 
+#MATHEUS PAULO BRASILEIRO
+#THIAGO VALADÃO COELHO
 
 #Para validar se esta compilando 
 mvn org.springframework.boot:spring-boot-maven-plugin:run
